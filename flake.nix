@@ -7,6 +7,10 @@
         path = ./ansible;
         description = "Ansible";
       };
+      cargo-lambda = {
+        path = ./cargo-lambda;
+        description = "Cargo Lambda";
+      };
     };
   };
 }
