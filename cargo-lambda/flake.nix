@@ -51,6 +51,8 @@
 
             cargo-lambda
             clang-tools
+
+            aws-sam-cli
           ];
 
           env = {
